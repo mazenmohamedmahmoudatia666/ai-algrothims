@@ -1,6 +1,6 @@
 ﻿# Ai-algrothims
 # TASK
-- Dfs
+- DFs
 - BFS
 - A*
 - Greedy 
